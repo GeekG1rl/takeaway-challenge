@@ -36,7 +36,10 @@ I would like to receive a text such as "Thank you! Your order was placed and wil
 
 Installation Instructions
 ------
-
+Clone the git repo in your chosen directory
+```
+git clone https://github.com/GeekG1rl/takeaway-challenge.git
+```
 Run 'bundle' in the project directory
 The .env file in contained in Twilio account with these details:
 ```
@@ -46,11 +49,6 @@ TWILIO_FROM_PHONE_NUMBER="+441234567890"
 TWILIO_TO_PHONE_NUMBER="+441234567890"
 ```
 Sign up for an account at https://www.twilio.com/try-twilio
-
-Clone the git repo in your chosen directory
-```
-git clone https://github.com/GeekG1rl/takeaway-challenge.git
-```
 
 ```
 $ irb
