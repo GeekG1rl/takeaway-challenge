@@ -43,7 +43,7 @@ git clone https://github.com/GeekG1rl/takeaway-challenge.git
 
 Run 'bundle' in the project directory.
 
-The .env file in contained in Twilio account with these details:
+The .env file is contained in the Twilio account with these details:
 
 ```
 TWILIO_ACCOUNT_SID="default"
